@@ -1,3 +1,10 @@
 body {
   background-color: brown;
 }
+
+p {
+  color: red;
+}
+h2 {
+  font-size: 50px;
+}
